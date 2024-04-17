@@ -1,0 +1,23 @@
+{
+  "name": "utility-andsthislib-js",
+  "version": "1.0.0",
+  "description": "This package provides utility libraries for common operations in JavaScript.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizarievspz3/utility-andsthislib-js.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "elizarievspz3",
+  "license": "MIT",
+  "dependencies": {
+    "task-sc78asheduler": "^1.0.0"
+  }
+}

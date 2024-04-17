@@ -1,0 +1,20 @@
+{
+  "name": "task-sc78asheduler",
+  "version": "1.0.0", 
+  "description": "Develop a package that allows users to schedule tasks and events in their Node.js applications with ease, providing functionalities like recurring tasks, notifications, and error handling.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizarievspz3/task-sc78asheduler.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
